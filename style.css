@@ -1,0 +1,89 @@
+ .evaluation{
+    font-size:16px;
+}
+
+.evaluation .head-title{
+    font-size: 32px;
+    font-weight:bold;
+}
+.evaluation .title{
+    font-size: 16px;
+    font-weight:bold;
+}
+.evaluation .bg-dg{
+    background-color: rgba(215, 215, 215, 1);
+}
+.evaluation .bg-g{
+    background-color: rgba(242, 242, 242, 1);
+}
+.evaluation .e-table{
+    border:1px solid #333333;
+    width:100%;
+    text-align:center;
+    border-collapse:collapse; 
+    border-spacing:0; 
+}
+
+.evaluation .e-table td{
+    word-break: break-all; 
+    word-wrap:break-word;
+    border-right:1px solid #333333;
+    border-bottom:1px solid #333333; 
+    font:500 14px Arial;
+    padding:10px;
+}
+.evaluation .p-20{
+    padding:20px;
+}
+.evaluation .p-10{
+    padding:10px;
+}
+.evaluation .mr-10{
+    margin-right:10px;
+}
+.evaluation .mt-10{
+    margin-top:10px;
+}
+.evaluation .mb-10{
+    margin-bottom:10px;
+}
+.evaluation .w-40{
+    width:40px;
+}
+.evaluation .c-link{
+    color:#169BD5;
+}
+.evaluation .tip-title{
+    font-weight: bold;
+}
+.evaluation .tip>div{
+    color:#666666;
+}
+.evaluation .ta-l{
+    text-align: left;
+}
+.evaluation .ta-r{
+    text-align: right;
+}
+.evaluation .ta-c{
+    text-align: center;
+}
+.evaluation .submit-btn{
+    display:inline-block;
+    padding:10px 50px;
+    color:white;
+    border-radius: 10px;
+    background-color: rgba(22, 155, 213, 1)
+}
+.evaluation .upload-btn{
+    display:inline-block;
+    padding:4px 20px;
+    color:white;
+    background-color: rgba(22, 155, 213, 1)
+}
+.evaluation .clear-btn{
+    display:inline-block;
+    padding:4px 20px;
+    color:white;
+    background-color: gray
+}
