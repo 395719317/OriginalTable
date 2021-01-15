@@ -1,13 +1,13 @@
  .evaluation{
-    font-size:16px;
+    font-size:14px;
 }
 
 .evaluation .head-title{
-    font-size: 32px;
+    font-size: 20px;
     font-weight:bold;
 }
 .evaluation .title{
-    font-size: 16px;
+    font-size: 14px;
     font-weight:bold;
 }
 .evaluation .bg-dg{
@@ -30,7 +30,7 @@
     border-right:1px solid #333333;
     border-bottom:1px solid #333333; 
     font:500 14px Arial;
-    padding:10px;
+    padding:5px;
 }
 .evaluation .p-20{
     padding:20px;
